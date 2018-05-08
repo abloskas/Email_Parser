@@ -1,0 +1,56 @@
+MIME-Version: 1.0
+Received: by 10.176.69.67 with HTTP; Mon, 7 May 2018 14:16:41 -0700 (PDT)
+Date: Mon, 7 May 2018 14:16:41 -0700
+Delivered-To: ashley@granitepointrealty.com
+Message-ID: <CAP7Wrz9ujs47T2n34F62dZSFgwHOBOmVuh2UGuSkQjQGe186WQ@mail.gmail.com>
+Subject: Test Email
+From: Ashley Bloskas <ashley@granitepointrealty.com>
+To: Ashley Bloskas <ashley@granitepointrealty.com>
+Content-Type: multipart/alternative; boundary="94eb2c13320a9b6287056ba42f9f"
+
+--94eb2c13320a9b6287056ba42f9f
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+This is a test email.
+
+Thanks!
+--
+Ashley Bloskas
+
+--94eb2c13320a9b6287056ba42f9f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello,<div><br></div><div>This is a test email.=C2=A0</div=
+><div><br></div><div>Thanks!<br clear=3D"all"><div><div class=3D"gmail_sign=
+ature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D=
+"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><di=
+v><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div di=
+r=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"=
+><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><di=
+v dir=3D"ltr"><div style=3D"font-size:small">--<br><font size=3D"2">Texas l=
+aw requires all real estate license holders to give the information below t=
+o all prospective buyers, sellers, tenants, and landlords. </font><br><br><=
+/div><div style=3D"font-size:small"><a href=3D"https://www.gprassociates.co=
+m/wp-content/uploads/2017/08/IABS_GPR.pdf" target=3D"_blank">Information Ab=
+out Brokerage Services</a><br><br></div><div style=3D"font-size:small"><a h=
+ref=3D"https://www.trec.texas.gov/sites/default/files/pdf-forms/CN%201-2.pd=
+f" target=3D"_blank">Consumer Protection Notice </a><br></div><div style=3D=
+"font-size:small"><br></div><div style=3D"font-size:small"><br></div><div s=
+tyle=3D"font-size:small"><br></div><div style=3D"font-size:small">=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0<img src=3D"https://drive.google.com/a/granitepointreal=
+ty.com/uc?id=3D0B3Wwo27pyr9JNzh2dlE1bjVNMDA&amp;export=3Ddownload" width=3D=
+"141" height=3D"200"><img src=3D"https://docs.google.com/uc?export=3Ddownlo=
+ad&amp;id=3D0B3Wwo27pyr9JNW9lbWtUZEw5SkU&amp;revid=3D0B3Wwo27pyr9JQ2FkSnNza=
+1BJVW1hbFFEakdHNFJtbHdQNFp3PQ" width=3D"200" height=3D"108"><br><span><div>=
+<div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=
+=3D"ltr"><div><div dir=3D"ltr"><div style=3D"font-size:small"></div></div><=
+/div></div></div></div></div></div></div></div></div></span></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div></div>=
+</div></div></div></div></div></div></div></div></div></div></div></div></d=
+iv></div></div></div></div></div></div>
+</div></div>
+
+--94eb2c13320a9b6287056ba42f9f--
