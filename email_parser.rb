@@ -10,6 +10,8 @@ def parser
         arr << line if (line["To:"])
         arr << line if (line["From:"])
         arr << line if (line["Subject:"])
+        arr << line if (line["Date:"])
+        arr << line if (line["MIME-Version"])
         if (line["boundary="])
             @boundary = "--"+line[/boundary="(.*?)"/m, 1]
             puts @boundary
