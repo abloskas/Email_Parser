@@ -1,5 +1,5 @@
 Hello!
-This Commit contains my code for a simple email parser 
+This Commit contains my code for a simple email parser in Rails
 (using a txt file downloaded from Google Mail)
 
 Next Steps:
